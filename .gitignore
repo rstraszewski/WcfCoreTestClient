@@ -3,3 +3,5 @@
 ################################################################################
 
 /WcfCoreTestClient/obj
+/.vs/WcfCoreTestClient/v15
+/WcfCoreTestClient/bin/*
